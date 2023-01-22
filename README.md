@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hajilekwah
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning TS and orbital mechanics
-- 💞️ I’m looking to collaborate on math
-- 📫 How to reach me LinkedIn
+- 🌱 I’m currently studying for the OSCP
+- 💞️ I’m looking to collaborate on information security, or to learn new things!
